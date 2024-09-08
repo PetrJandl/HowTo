@@ -6,5 +6,5 @@ git config --global user. email "you@example.com"
 ```
 #### Only this project
 ```bash
-git config --global user.email "petr.jandl@gmail.com"
+git config user.email "petr.jandl@gmail.com"
 ```
